@@ -151,6 +151,10 @@
 												<input value="<?php echo $alumnus['twitter']; ?>" name="twitter" type="text" class="form-control" placeholder="<?php echo $this->lang->line('ph_alumni_twitter'); ?>">
 											</div>
 											<div class="form-group">
+												<label><?php echo $this->lang->line('documents'); ?></label>
+												<input value="<?php echo $alumnus['documents']; ?>" name="documents" type="file" class="form-control" placeholder="<?php echo $this->lang->line('ph_alumni_documents'); ?>">
+											</div>
+											<div class="form-group">
 												<label><?php echo $this->lang->line('youtube'); ?></label>
 												<input value="<?php echo $alumnus['youtube']; ?>" name="youtube" type="text" class="form-control" placeholder="<?php echo $this->lang->line('ph_alumni_youtube'); ?>">
 											</div>

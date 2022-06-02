@@ -21,3 +21,10 @@ ERROR - 2022-06-02 12:43:56 --> Severity: Warning --> Trying to access array off
 ERROR - 2022-06-02 08:43:56 --> Could not find the language line "404"
 ERROR - 2022-06-02 12:43:57 --> Severity: Warning --> Undefined variable $row E:\Xammp\htdocs\alumni\application\views\admin\alumni.php 45
 ERROR - 2022-06-02 12:43:57 --> Severity: Warning --> Trying to access array offset on value of type null E:\Xammp\htdocs\alumni\application\views\admin\alumni.php 45
+ERROR - 2022-06-02 13:08:56 --> Severity: Warning --> Undefined variable $row E:\Xammp\htdocs\alumni\application\views\admin\alumni.php 45
+ERROR - 2022-06-02 13:08:56 --> Severity: Warning --> Trying to access array offset on value of type null E:\Xammp\htdocs\alumni\application\views\admin\alumni.php 45
+ERROR - 2022-06-02 09:08:57 --> Could not find the language line "404"
+ERROR - 2022-06-02 09:08:58 --> Could not find the language line "404"
+ERROR - 2022-06-02 13:08:59 --> Severity: Warning --> Undefined variable $row E:\Xammp\htdocs\alumni\application\views\admin\alumni.php 45
+ERROR - 2022-06-02 13:08:59 --> Severity: Warning --> Trying to access array offset on value of type null E:\Xammp\htdocs\alumni\application\views\admin\alumni.php 45
+ERROR - 2022-06-02 09:08:59 --> Could not find the language line "404"
