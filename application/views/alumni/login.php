@@ -20,32 +20,32 @@
                                 <header>
                                     <h2><?php echo $this->lang->line('have_an_account'); ?>?</h2>
                                 </header>
-                                <?php if ($this->session->flashdata('info')) : ?>
+                                <?php if ($this->session->flashdata('info')): ?>
                                     <div class="alert alert-info alert-dismissible fade in" role="alert">
                                         <button type="button" class="close" data-dismiss="alert" aria-label="Close">
                                             <span aria-hidden="true">×</span>
                                         </button>
                                         <?php echo $this->session->flashdata('info'); ?>
                                     </div>
-                                <?php endif; ?>
-                                <?php if ($this->session->flashdata('success')) : ?>
+                                <?php endif;?>
+                                <?php if ($this->session->flashdata('success')): ?>
                                     <div class="alert alert-success alert-dismissible fade in" role="alert">
                                         <button type="button" class="close" data-dismiss="alert" aria-label="Close">
                                             <span aria-hidden="true">×</span>
                                         </button>
                                         <?php echo $this->session->flashdata('success'); ?>
                                     </div>
-                                <?php endif; ?>
-                                <?php if ($this->session->flashdata('warning')) : ?>
+                                <?php endif;?>
+                                <?php if ($this->session->flashdata('warning')): ?>
                                     <div class="alert alert-warning alert-dismissible fade in" role="alert">
                                         <button type="button" class="close" data-dismiss="alert" aria-label="Close">
                                             <span aria-hidden="true">×</span>
                                         </button>
                                         <?php echo $this->session->flashdata('warning'); ?>
                                     </div>
-                                <?php endif; ?>
+                                <?php endif;?>
 
-                                <?php echo form_open('auth/website_login', array('class' => 'clearfix', 'data-parsley-validate' => 'true')); ?>
+                                <?php echo form_open('auth/website_login', array('class' => 'clearfix', 'data-parsley-validate' => 'true'));?>
                                 <div class="form-group">
                                     <label for="email"><?php echo $this->lang->line('email'); ?></label>
                                     <input name="email" type="email" class="form-control" id="email" placeholder="<?php echo $this->lang->line('ph_alumni_email'); ?>" data-parsley-required="true">
@@ -80,9 +80,9 @@
                                     <label><?php echo $this->lang->line('class'); ?></label>
                                     <select name="batch" data-parsley-required="true">
                                         <option value=""><?php echo $this->lang->line('select_class'); ?></option>
-                                        <?php for ($start_year = date('Y'); $start_year >= 1900; $start_year--) : ?>
+                                        <?php for ($start_year = date('Y'); $start_year >= 1900; $start_year--): ?>
                                             <option value="<?php echo $start_year; ?>"><?php echo $start_year; ?></option>
-                                        <?php endfor; ?>
+                                        <?php endfor;?>
                                     </select>
                                 </div>
                                 <div class="form-group">
@@ -98,23 +98,23 @@
                                     <select name="profession_id" data-parsley-required="true">
                                         <option value=""><?php echo $this->lang->line('select_profession'); ?></option>
                                         <?php
-                                        $professions_info = $this->security->xss_clean($this->db->get('profession')->result_array());
-                                        foreach ($professions_info as $profession) :
-                                        ?>
+$professions_info = $this->security->xss_clean($this->db->get('profession')->result_array());
+foreach ($professions_info as $profession):
+?>
                                             <option value="<?php echo $profession['profession_id']; ?>"><?php echo $profession['name']; ?></option>
-                                        <?php endforeach; ?>
+                                        <?php endforeach;?>
                                     </select>
                                 </div>
                                 <div class="form-group">
                                     <label><?php echo $this->lang->line('linkedin'); ?></label>
                                      <input name="linkedin" type="text" class="form-control" placeholder="<?php echo $this->lang->line('ph_alumni_linkedin'); ?>" data-parsley-required="true">
-                                   
+
                                 </div>
                                 <div class="form-group">
-                                    <label><?php echo $this->lang->line('documents');?></label>
+                                    <label><?php echo $this->lang->line('documents'); ?></label>
                                     <input  type="file" class="form-control" name ="documents"  placeholder="<?php echo $this->lang->line('ph_alumni_documents'); ?>" data-parsley-required="true">
-                                </div>
-                               
+                                </div> not save in database
+
 
                                 <div class="checkbox">
                                     <label>

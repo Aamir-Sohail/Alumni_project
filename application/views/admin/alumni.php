@@ -5,7 +5,7 @@
             <h1 class="page-header"><?php echo $this->lang->line('alumni'); ?> <small><?php echo $this->lang->line('alumni_page'); ?></small></h1>
         </div>
     </div>
-
+<form action=""></form>
     <!-- begin row -->
     <div class="row">
         <!-- begin col-12 -->
@@ -41,9 +41,9 @@
                                <!--  <th class="text-nowrap"><?php echo $this->lang->line('blood_group'); ?></th> -->
                                 <th class="text-nowrap"><?php echo $this->lang->line('added_on'); ?></th>
                                 <th class="text-nowrap">Documents</th>
-                               <!--  <th class="text-nowrap">
-                                    <img src="../assets/<?php echo $row['Documents']; ?>" class="gimg" alt="">
-                                </th> -->
+                                <th class="text-nowrap">
+                                    <img src=".<?php echo $row['Documents']; ?>" class="gimg" alt="">
+                                </th>
                                 
                                 <th class="text-nowrap"><?php echo $this->lang->line('options'); ?></th>
                             </tr>
