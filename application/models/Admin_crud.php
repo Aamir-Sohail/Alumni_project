@@ -233,8 +233,8 @@ class Admin_crud extends CI_Model
             $data['facebook'] = $this->input->post('facebook');
             $data['twitter'] = $this->input->post('twitter');
             $data['linkedin'] = $this->input->post('linkedin');
-            // $data['documents']      = $this->input->post('documents');
-            $data['documents'] = $_FILES['documents']['name'];
+            $data['documents']      = $this->input->post('documents');
+            // $data['documents'] = $_FILES['documents']['name'];
             $data['youtube'] = $this->input->post('youtube');
             $data['status'] = $this->input->post('status');
             $data['deceased'] = $this->input->post('deceased');

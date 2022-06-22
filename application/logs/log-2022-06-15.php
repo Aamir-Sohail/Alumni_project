@@ -246,3 +246,260 @@ ERROR - 2022-06-15 14:35:53 --> Could not find the language line "404"
 ERROR - 2022-06-15 18:35:53 --> Severity: Warning --> Undefined variable $row E:\Xammp\htdocs\alumni\application\views\admin\alumni.php 45
 ERROR - 2022-06-15 18:35:53 --> Severity: Warning --> Trying to access array offset on value of type null E:\Xammp\htdocs\alumni\application\views\admin\alumni.php 45
 ERROR - 2022-06-15 14:35:53 --> Could not find the language line "404"
+ERROR - 2022-06-15 23:23:35 --> Could not find the language line "documents"
+ERROR - 2022-06-15 23:23:35 --> Could not find the language line "ph_alumni_documents"
+ERROR - 2022-06-15 19:23:38 --> Could not find the language line "404"
+ERROR - 2022-06-15 19:23:38 --> Could not find the language line "404"
+ERROR - 2022-06-15 19:23:39 --> Could not find the language line "404"
+ERROR - 2022-06-15 19:23:40 --> Could not find the language line "404"
+ERROR - 2022-06-15 19:23:51 --> Could not find the language line "404"
+ERROR - 2022-06-15 19:23:51 --> Could not find the language line "404"
+ERROR - 2022-06-15 19:23:52 --> Could not find the language line "404"
+ERROR - 2022-06-15 23:23:57 --> Severity: Warning --> Undefined variable $row E:\Xammp\htdocs\alumni\application\views\admin\alumni.php 45
+ERROR - 2022-06-15 23:23:57 --> Severity: Warning --> Trying to access array offset on value of type null E:\Xammp\htdocs\alumni\application\views\admin\alumni.php 45
+ERROR - 2022-06-15 19:23:57 --> Could not find the language line "404"
+ERROR - 2022-06-15 19:23:58 --> Could not find the language line "404"
+ERROR - 2022-06-15 23:23:58 --> Severity: Warning --> Undefined variable $row E:\Xammp\htdocs\alumni\application\views\admin\alumni.php 45
+ERROR - 2022-06-15 23:23:58 --> Severity: Warning --> Trying to access array offset on value of type null E:\Xammp\htdocs\alumni\application\views\admin\alumni.php 45
+ERROR - 2022-06-15 19:23:58 --> Could not find the language line "404"
+ERROR - 2022-06-15 19:24:15 --> Could not find the language line "404"
+ERROR - 2022-06-15 19:24:15 --> Could not find the language line "404"
+ERROR - 2022-06-15 19:24:15 --> Could not find the language line "404"
+ERROR - 2022-06-15 19:24:23 --> Could not find the language line "404"
+ERROR - 2022-06-15 19:24:23 --> Could not find the language line "404"
+ERROR - 2022-06-15 19:24:23 --> Could not find the language line "404"
+ERROR - 2022-06-15 19:24:34 --> Could not find the language line "404"
+ERROR - 2022-06-15 19:24:34 --> Could not find the language line "404"
+ERROR - 2022-06-15 19:24:34 --> Could not find the language line "404"
+ERROR - 2022-06-15 19:24:38 --> Could not find the language line "404"
+ERROR - 2022-06-15 19:24:38 --> Could not find the language line "404"
+ERROR - 2022-06-15 19:24:38 --> Could not find the language line "404"
+ERROR - 2022-06-15 23:24:55 --> Severity: Warning --> Undefined variable $row E:\Xammp\htdocs\alumni\application\views\admin\alumni.php 45
+ERROR - 2022-06-15 23:24:55 --> Severity: Warning --> Trying to access array offset on value of type null E:\Xammp\htdocs\alumni\application\views\admin\alumni.php 45
+ERROR - 2022-06-15 19:24:55 --> Could not find the language line "404"
+ERROR - 2022-06-15 19:24:55 --> Could not find the language line "404"
+ERROR - 2022-06-15 23:24:55 --> Severity: Warning --> Undefined variable $row E:\Xammp\htdocs\alumni\application\views\admin\alumni.php 45
+ERROR - 2022-06-15 23:24:55 --> Severity: Warning --> Trying to access array offset on value of type null E:\Xammp\htdocs\alumni\application\views\admin\alumni.php 45
+ERROR - 2022-06-15 19:24:55 --> Could not find the language line "404"
+ERROR - 2022-06-15 23:25:22 --> Severity: Warning --> Undefined variable $row E:\Xammp\htdocs\alumni\application\views\admin\alumni.php 45
+ERROR - 2022-06-15 23:25:22 --> Severity: Warning --> Trying to access array offset on value of type null E:\Xammp\htdocs\alumni\application\views\admin\alumni.php 45
+ERROR - 2022-06-15 19:25:22 --> Could not find the language line "404"
+ERROR - 2022-06-15 19:25:22 --> Could not find the language line "404"
+ERROR - 2022-06-15 23:25:23 --> Severity: Warning --> Undefined variable $row E:\Xammp\htdocs\alumni\application\views\admin\alumni.php 45
+ERROR - 2022-06-15 23:25:23 --> Severity: Warning --> Trying to access array offset on value of type null E:\Xammp\htdocs\alumni\application\views\admin\alumni.php 45
+ERROR - 2022-06-15 19:25:23 --> Could not find the language line "404"
+ERROR - 2022-06-15 23:26:21 --> Could not find the language line "documents"
+ERROR - 2022-06-15 23:26:21 --> Severity: Warning --> Undefined variable $row E:\Xammp\htdocs\alumni\application\views\admin\alumni.php 45
+ERROR - 2022-06-15 23:26:21 --> Severity: Warning --> Trying to access array offset on value of type null E:\Xammp\htdocs\alumni\application\views\admin\alumni.php 45
+ERROR - 2022-06-15 19:26:21 --> Could not find the language line "404"
+ERROR - 2022-06-15 19:26:22 --> Could not find the language line "404"
+ERROR - 2022-06-15 23:26:22 --> Could not find the language line "documents"
+ERROR - 2022-06-15 23:26:22 --> Severity: Warning --> Undefined variable $row E:\Xammp\htdocs\alumni\application\views\admin\alumni.php 45
+ERROR - 2022-06-15 23:26:22 --> Severity: Warning --> Trying to access array offset on value of type null E:\Xammp\htdocs\alumni\application\views\admin\alumni.php 45
+ERROR - 2022-06-15 19:26:22 --> Could not find the language line "404"
+ERROR - 2022-06-15 23:26:35 --> Could not find the language line "documents"
+ERROR - 2022-06-15 23:26:35 --> Severity: Warning --> Undefined variable $row E:\Xammp\htdocs\alumni\application\views\admin\alumni.php 45
+ERROR - 2022-06-15 23:26:35 --> Severity: Warning --> Trying to access array offset on value of type null E:\Xammp\htdocs\alumni\application\views\admin\alumni.php 45
+ERROR - 2022-06-15 19:26:35 --> Could not find the language line "404"
+ERROR - 2022-06-15 19:26:35 --> Could not find the language line "404"
+ERROR - 2022-06-15 23:26:36 --> Could not find the language line "documents"
+ERROR - 2022-06-15 23:26:36 --> Severity: Warning --> Undefined variable $row E:\Xammp\htdocs\alumni\application\views\admin\alumni.php 45
+ERROR - 2022-06-15 23:26:36 --> Severity: Warning --> Trying to access array offset on value of type null E:\Xammp\htdocs\alumni\application\views\admin\alumni.php 45
+ERROR - 2022-06-15 19:26:36 --> Could not find the language line "404"
+ERROR - 2022-06-15 23:48:35 --> Could not find the language line "documents"
+ERROR - 2022-06-15 23:48:35 --> Severity: Warning --> Undefined variable $row E:\Xammp\htdocs\alumni\application\views\admin\alumni.php 45
+ERROR - 2022-06-15 23:48:35 --> Severity: Warning --> Trying to access array offset on value of type null E:\Xammp\htdocs\alumni\application\views\admin\alumni.php 45
+ERROR - 2022-06-15 19:48:38 --> Could not find the language line "404"
+ERROR - 2022-06-15 19:48:38 --> Could not find the language line "404"
+ERROR - 2022-06-15 23:48:38 --> Could not find the language line "documents"
+ERROR - 2022-06-15 23:48:38 --> Severity: Warning --> Undefined variable $row E:\Xammp\htdocs\alumni\application\views\admin\alumni.php 45
+ERROR - 2022-06-15 23:48:38 --> Severity: Warning --> Trying to access array offset on value of type null E:\Xammp\htdocs\alumni\application\views\admin\alumni.php 45
+ERROR - 2022-06-15 19:48:39 --> Could not find the language line "404"
+ERROR - 2022-06-15 23:53:59 --> Could not find the language line "documents"
+ERROR - 2022-06-15 23:53:59 --> Severity: Warning --> Undefined variable $row E:\Xammp\htdocs\alumni\application\views\admin\alumni.php 45
+ERROR - 2022-06-15 23:53:59 --> Severity: Warning --> Trying to access array offset on value of type null E:\Xammp\htdocs\alumni\application\views\admin\alumni.php 45
+ERROR - 2022-06-15 19:54:00 --> Could not find the language line "404"
+ERROR - 2022-06-15 19:54:00 --> Could not find the language line "404"
+ERROR - 2022-06-15 19:54:00 --> Could not find the language line "404"
+ERROR - 2022-06-15 23:54:00 --> Could not find the language line "documents"
+ERROR - 2022-06-15 23:54:00 --> Severity: Warning --> Undefined variable $row E:\Xammp\htdocs\alumni\application\views\admin\alumni.php 45
+ERROR - 2022-06-15 23:54:00 --> Severity: Warning --> Trying to access array offset on value of type null E:\Xammp\htdocs\alumni\application\views\admin\alumni.php 45
+ERROR - 2022-06-15 19:54:01 --> Could not find the language line "404"
+ERROR - 2022-06-15 19:54:01 --> Could not find the language line "404"
+ERROR - 2022-06-15 23:54:57 --> Could not find the language line "documents"
+ERROR - 2022-06-15 23:54:57 --> Severity: Warning --> Undefined variable $row E:\Xammp\htdocs\alumni\application\views\admin\alumni.php 45
+ERROR - 2022-06-15 23:54:57 --> Severity: Warning --> Trying to access array offset on value of type null E:\Xammp\htdocs\alumni\application\views\admin\alumni.php 45
+ERROR - 2022-06-15 23:54:57 --> Severity: Warning --> Attempt to read property "id" on array E:\Xammp\htdocs\alumni\application\views\admin\alumni.php 78
+ERROR - 2022-06-15 23:54:57 --> Severity: Warning --> Attempt to read property "id" on array E:\Xammp\htdocs\alumni\application\views\admin\alumni.php 78
+ERROR - 2022-06-15 23:54:57 --> Severity: Warning --> Attempt to read property "id" on array E:\Xammp\htdocs\alumni\application\views\admin\alumni.php 78
+ERROR - 2022-06-15 23:54:57 --> Severity: Warning --> Attempt to read property "id" on array E:\Xammp\htdocs\alumni\application\views\admin\alumni.php 78
+ERROR - 2022-06-15 23:54:57 --> Severity: Warning --> Attempt to read property "id" on array E:\Xammp\htdocs\alumni\application\views\admin\alumni.php 78
+ERROR - 2022-06-15 23:54:57 --> Severity: Warning --> Attempt to read property "id" on array E:\Xammp\htdocs\alumni\application\views\admin\alumni.php 78
+ERROR - 2022-06-15 23:54:57 --> Severity: Warning --> Attempt to read property "id" on array E:\Xammp\htdocs\alumni\application\views\admin\alumni.php 78
+ERROR - 2022-06-15 23:54:57 --> Severity: Warning --> Attempt to read property "id" on array E:\Xammp\htdocs\alumni\application\views\admin\alumni.php 78
+ERROR - 2022-06-15 23:54:57 --> Severity: Warning --> Attempt to read property "id" on array E:\Xammp\htdocs\alumni\application\views\admin\alumni.php 78
+ERROR - 2022-06-15 23:54:57 --> Severity: Warning --> Attempt to read property "id" on array E:\Xammp\htdocs\alumni\application\views\admin\alumni.php 78
+ERROR - 2022-06-15 23:54:57 --> Severity: Warning --> Attempt to read property "id" on array E:\Xammp\htdocs\alumni\application\views\admin\alumni.php 78
+ERROR - 2022-06-15 23:54:57 --> Severity: Warning --> Attempt to read property "id" on array E:\Xammp\htdocs\alumni\application\views\admin\alumni.php 78
+ERROR - 2022-06-15 23:54:57 --> Severity: Warning --> Attempt to read property "id" on array E:\Xammp\htdocs\alumni\application\views\admin\alumni.php 78
+ERROR - 2022-06-15 23:54:57 --> Severity: Warning --> Attempt to read property "id" on array E:\Xammp\htdocs\alumni\application\views\admin\alumni.php 78
+ERROR - 2022-06-15 23:54:57 --> Severity: Warning --> Attempt to read property "id" on array E:\Xammp\htdocs\alumni\application\views\admin\alumni.php 78
+ERROR - 2022-06-15 23:54:57 --> Severity: Warning --> Attempt to read property "id" on array E:\Xammp\htdocs\alumni\application\views\admin\alumni.php 78
+ERROR - 2022-06-15 19:54:57 --> Could not find the language line "404"
+ERROR - 2022-06-15 19:54:57 --> Could not find the language line "404"
+ERROR - 2022-06-15 19:54:58 --> Could not find the language line "404"
+ERROR - 2022-06-15 23:54:58 --> Could not find the language line "documents"
+ERROR - 2022-06-15 23:54:58 --> Severity: Warning --> Undefined variable $row E:\Xammp\htdocs\alumni\application\views\admin\alumni.php 45
+ERROR - 2022-06-15 23:54:58 --> Severity: Warning --> Trying to access array offset on value of type null E:\Xammp\htdocs\alumni\application\views\admin\alumni.php 45
+ERROR - 2022-06-15 23:54:58 --> Severity: Warning --> Attempt to read property "id" on array E:\Xammp\htdocs\alumni\application\views\admin\alumni.php 78
+ERROR - 2022-06-15 23:54:58 --> Severity: Warning --> Attempt to read property "id" on array E:\Xammp\htdocs\alumni\application\views\admin\alumni.php 78
+ERROR - 2022-06-15 23:54:58 --> Severity: Warning --> Attempt to read property "id" on array E:\Xammp\htdocs\alumni\application\views\admin\alumni.php 78
+ERROR - 2022-06-15 23:54:58 --> Severity: Warning --> Attempt to read property "id" on array E:\Xammp\htdocs\alumni\application\views\admin\alumni.php 78
+ERROR - 2022-06-15 23:54:58 --> Severity: Warning --> Attempt to read property "id" on array E:\Xammp\htdocs\alumni\application\views\admin\alumni.php 78
+ERROR - 2022-06-15 23:54:58 --> Severity: Warning --> Attempt to read property "id" on array E:\Xammp\htdocs\alumni\application\views\admin\alumni.php 78
+ERROR - 2022-06-15 23:54:58 --> Severity: Warning --> Attempt to read property "id" on array E:\Xammp\htdocs\alumni\application\views\admin\alumni.php 78
+ERROR - 2022-06-15 23:54:58 --> Severity: Warning --> Attempt to read property "id" on array E:\Xammp\htdocs\alumni\application\views\admin\alumni.php 78
+ERROR - 2022-06-15 23:54:58 --> Severity: Warning --> Attempt to read property "id" on array E:\Xammp\htdocs\alumni\application\views\admin\alumni.php 78
+ERROR - 2022-06-15 23:54:58 --> Severity: Warning --> Attempt to read property "id" on array E:\Xammp\htdocs\alumni\application\views\admin\alumni.php 78
+ERROR - 2022-06-15 23:54:58 --> Severity: Warning --> Attempt to read property "id" on array E:\Xammp\htdocs\alumni\application\views\admin\alumni.php 78
+ERROR - 2022-06-15 23:54:58 --> Severity: Warning --> Attempt to read property "id" on array E:\Xammp\htdocs\alumni\application\views\admin\alumni.php 78
+ERROR - 2022-06-15 23:54:58 --> Severity: Warning --> Attempt to read property "id" on array E:\Xammp\htdocs\alumni\application\views\admin\alumni.php 78
+ERROR - 2022-06-15 23:54:58 --> Severity: Warning --> Attempt to read property "id" on array E:\Xammp\htdocs\alumni\application\views\admin\alumni.php 78
+ERROR - 2022-06-15 23:54:58 --> Severity: Warning --> Attempt to read property "id" on array E:\Xammp\htdocs\alumni\application\views\admin\alumni.php 78
+ERROR - 2022-06-15 23:54:58 --> Severity: Warning --> Attempt to read property "id" on array E:\Xammp\htdocs\alumni\application\views\admin\alumni.php 78
+ERROR - 2022-06-15 19:54:58 --> Could not find the language line "404"
+ERROR - 2022-06-15 19:54:58 --> Could not find the language line "404"
+ERROR - 2022-06-15 23:55:35 --> Could not find the language line "documents"
+ERROR - 2022-06-15 23:55:35 --> Severity: Warning --> Undefined variable $row E:\Xammp\htdocs\alumni\application\views\admin\alumni.php 45
+ERROR - 2022-06-15 23:55:35 --> Severity: Warning --> Trying to access array offset on value of type null E:\Xammp\htdocs\alumni\application\views\admin\alumni.php 45
+ERROR - 2022-06-15 23:55:35 --> Severity: Warning --> Attempt to read property "documents" on array E:\Xammp\htdocs\alumni\application\views\admin\alumni.php 78
+ERROR - 2022-06-15 23:55:35 --> Severity: Warning --> Attempt to read property "documents" on array E:\Xammp\htdocs\alumni\application\views\admin\alumni.php 78
+ERROR - 2022-06-15 23:55:35 --> Severity: Warning --> Attempt to read property "documents" on array E:\Xammp\htdocs\alumni\application\views\admin\alumni.php 78
+ERROR - 2022-06-15 23:55:35 --> Severity: Warning --> Attempt to read property "documents" on array E:\Xammp\htdocs\alumni\application\views\admin\alumni.php 78
+ERROR - 2022-06-15 23:55:35 --> Severity: Warning --> Attempt to read property "documents" on array E:\Xammp\htdocs\alumni\application\views\admin\alumni.php 78
+ERROR - 2022-06-15 23:55:35 --> Severity: Warning --> Attempt to read property "documents" on array E:\Xammp\htdocs\alumni\application\views\admin\alumni.php 78
+ERROR - 2022-06-15 23:55:35 --> Severity: Warning --> Attempt to read property "documents" on array E:\Xammp\htdocs\alumni\application\views\admin\alumni.php 78
+ERROR - 2022-06-15 23:55:35 --> Severity: Warning --> Attempt to read property "documents" on array E:\Xammp\htdocs\alumni\application\views\admin\alumni.php 78
+ERROR - 2022-06-15 23:55:35 --> Severity: Warning --> Attempt to read property "documents" on array E:\Xammp\htdocs\alumni\application\views\admin\alumni.php 78
+ERROR - 2022-06-15 23:55:35 --> Severity: Warning --> Attempt to read property "documents" on array E:\Xammp\htdocs\alumni\application\views\admin\alumni.php 78
+ERROR - 2022-06-15 23:55:35 --> Severity: Warning --> Attempt to read property "documents" on array E:\Xammp\htdocs\alumni\application\views\admin\alumni.php 78
+ERROR - 2022-06-15 23:55:35 --> Severity: Warning --> Attempt to read property "documents" on array E:\Xammp\htdocs\alumni\application\views\admin\alumni.php 78
+ERROR - 2022-06-15 23:55:35 --> Severity: Warning --> Attempt to read property "documents" on array E:\Xammp\htdocs\alumni\application\views\admin\alumni.php 78
+ERROR - 2022-06-15 23:55:35 --> Severity: Warning --> Attempt to read property "documents" on array E:\Xammp\htdocs\alumni\application\views\admin\alumni.php 78
+ERROR - 2022-06-15 23:55:35 --> Severity: Warning --> Attempt to read property "documents" on array E:\Xammp\htdocs\alumni\application\views\admin\alumni.php 78
+ERROR - 2022-06-15 23:55:35 --> Severity: Warning --> Attempt to read property "documents" on array E:\Xammp\htdocs\alumni\application\views\admin\alumni.php 78
+ERROR - 2022-06-15 19:55:35 --> Could not find the language line "404"
+ERROR - 2022-06-15 19:55:35 --> Could not find the language line "404"
+ERROR - 2022-06-15 19:55:35 --> Could not find the language line "404"
+ERROR - 2022-06-15 23:55:35 --> Could not find the language line "documents"
+ERROR - 2022-06-15 23:55:35 --> Severity: Warning --> Undefined variable $row E:\Xammp\htdocs\alumni\application\views\admin\alumni.php 45
+ERROR - 2022-06-15 23:55:35 --> Severity: Warning --> Trying to access array offset on value of type null E:\Xammp\htdocs\alumni\application\views\admin\alumni.php 45
+ERROR - 2022-06-15 23:55:35 --> Severity: Warning --> Attempt to read property "documents" on array E:\Xammp\htdocs\alumni\application\views\admin\alumni.php 78
+ERROR - 2022-06-15 23:55:35 --> Severity: Warning --> Attempt to read property "documents" on array E:\Xammp\htdocs\alumni\application\views\admin\alumni.php 78
+ERROR - 2022-06-15 23:55:35 --> Severity: Warning --> Attempt to read property "documents" on array E:\Xammp\htdocs\alumni\application\views\admin\alumni.php 78
+ERROR - 2022-06-15 23:55:35 --> Severity: Warning --> Attempt to read property "documents" on array E:\Xammp\htdocs\alumni\application\views\admin\alumni.php 78
+ERROR - 2022-06-15 23:55:35 --> Severity: Warning --> Attempt to read property "documents" on array E:\Xammp\htdocs\alumni\application\views\admin\alumni.php 78
+ERROR - 2022-06-15 23:55:35 --> Severity: Warning --> Attempt to read property "documents" on array E:\Xammp\htdocs\alumni\application\views\admin\alumni.php 78
+ERROR - 2022-06-15 23:55:35 --> Severity: Warning --> Attempt to read property "documents" on array E:\Xammp\htdocs\alumni\application\views\admin\alumni.php 78
+ERROR - 2022-06-15 23:55:35 --> Severity: Warning --> Attempt to read property "documents" on array E:\Xammp\htdocs\alumni\application\views\admin\alumni.php 78
+ERROR - 2022-06-15 23:55:35 --> Severity: Warning --> Attempt to read property "documents" on array E:\Xammp\htdocs\alumni\application\views\admin\alumni.php 78
+ERROR - 2022-06-15 23:55:35 --> Severity: Warning --> Attempt to read property "documents" on array E:\Xammp\htdocs\alumni\application\views\admin\alumni.php 78
+ERROR - 2022-06-15 23:55:35 --> Severity: Warning --> Attempt to read property "documents" on array E:\Xammp\htdocs\alumni\application\views\admin\alumni.php 78
+ERROR - 2022-06-15 23:55:35 --> Severity: Warning --> Attempt to read property "documents" on array E:\Xammp\htdocs\alumni\application\views\admin\alumni.php 78
+ERROR - 2022-06-15 23:55:35 --> Severity: Warning --> Attempt to read property "documents" on array E:\Xammp\htdocs\alumni\application\views\admin\alumni.php 78
+ERROR - 2022-06-15 23:55:35 --> Severity: Warning --> Attempt to read property "documents" on array E:\Xammp\htdocs\alumni\application\views\admin\alumni.php 78
+ERROR - 2022-06-15 23:55:35 --> Severity: Warning --> Attempt to read property "documents" on array E:\Xammp\htdocs\alumni\application\views\admin\alumni.php 78
+ERROR - 2022-06-15 23:55:35 --> Severity: Warning --> Attempt to read property "documents" on array E:\Xammp\htdocs\alumni\application\views\admin\alumni.php 78
+ERROR - 2022-06-15 19:55:36 --> Could not find the language line "404"
+ERROR - 2022-06-15 19:55:36 --> Could not find the language line "404"
+ERROR - 2022-06-15 23:56:57 --> Could not find the language line "documents"
+ERROR - 2022-06-15 23:56:57 --> Severity: Warning --> Undefined variable $row E:\Xammp\htdocs\alumni\application\views\admin\alumni.php 45
+ERROR - 2022-06-15 23:56:57 --> Severity: Warning --> Trying to access array offset on value of type null E:\Xammp\htdocs\alumni\application\views\admin\alumni.php 45
+ERROR - 2022-06-15 23:56:57 --> Severity: Warning --> Attempt to read property "documents" on array E:\Xammp\htdocs\alumni\application\views\admin\alumni.php 78
+ERROR - 2022-06-15 23:56:57 --> Severity: Warning --> Attempt to read property "documents" on array E:\Xammp\htdocs\alumni\application\views\admin\alumni.php 78
+ERROR - 2022-06-15 23:56:57 --> Severity: Warning --> Attempt to read property "documents" on array E:\Xammp\htdocs\alumni\application\views\admin\alumni.php 78
+ERROR - 2022-06-15 23:56:57 --> Severity: Warning --> Attempt to read property "documents" on array E:\Xammp\htdocs\alumni\application\views\admin\alumni.php 78
+ERROR - 2022-06-15 23:56:57 --> Severity: Warning --> Attempt to read property "documents" on array E:\Xammp\htdocs\alumni\application\views\admin\alumni.php 78
+ERROR - 2022-06-15 23:56:57 --> Severity: Warning --> Attempt to read property "documents" on array E:\Xammp\htdocs\alumni\application\views\admin\alumni.php 78
+ERROR - 2022-06-15 23:56:57 --> Severity: Warning --> Attempt to read property "documents" on array E:\Xammp\htdocs\alumni\application\views\admin\alumni.php 78
+ERROR - 2022-06-15 23:56:57 --> Severity: Warning --> Attempt to read property "documents" on array E:\Xammp\htdocs\alumni\application\views\admin\alumni.php 78
+ERROR - 2022-06-15 23:56:57 --> Severity: Warning --> Attempt to read property "documents" on array E:\Xammp\htdocs\alumni\application\views\admin\alumni.php 78
+ERROR - 2022-06-15 23:56:57 --> Severity: Warning --> Attempt to read property "documents" on array E:\Xammp\htdocs\alumni\application\views\admin\alumni.php 78
+ERROR - 2022-06-15 23:56:57 --> Severity: Warning --> Attempt to read property "documents" on array E:\Xammp\htdocs\alumni\application\views\admin\alumni.php 78
+ERROR - 2022-06-15 23:56:57 --> Severity: Warning --> Attempt to read property "documents" on array E:\Xammp\htdocs\alumni\application\views\admin\alumni.php 78
+ERROR - 2022-06-15 23:56:57 --> Severity: Warning --> Attempt to read property "documents" on array E:\Xammp\htdocs\alumni\application\views\admin\alumni.php 78
+ERROR - 2022-06-15 23:56:57 --> Severity: Warning --> Attempt to read property "documents" on array E:\Xammp\htdocs\alumni\application\views\admin\alumni.php 78
+ERROR - 2022-06-15 23:56:57 --> Severity: Warning --> Attempt to read property "documents" on array E:\Xammp\htdocs\alumni\application\views\admin\alumni.php 78
+ERROR - 2022-06-15 23:56:57 --> Severity: Warning --> Attempt to read property "documents" on array E:\Xammp\htdocs\alumni\application\views\admin\alumni.php 78
+ERROR - 2022-06-15 19:56:57 --> Could not find the language line "404"
+ERROR - 2022-06-15 19:56:57 --> Could not find the language line "404"
+ERROR - 2022-06-15 23:56:57 --> Could not find the language line "documents"
+ERROR - 2022-06-15 23:56:57 --> Severity: Warning --> Undefined variable $row E:\Xammp\htdocs\alumni\application\views\admin\alumni.php 45
+ERROR - 2022-06-15 23:56:57 --> Severity: Warning --> Trying to access array offset on value of type null E:\Xammp\htdocs\alumni\application\views\admin\alumni.php 45
+ERROR - 2022-06-15 23:56:57 --> Severity: Warning --> Attempt to read property "documents" on array E:\Xammp\htdocs\alumni\application\views\admin\alumni.php 78
+ERROR - 2022-06-15 23:56:57 --> Severity: Warning --> Attempt to read property "documents" on array E:\Xammp\htdocs\alumni\application\views\admin\alumni.php 78
+ERROR - 2022-06-15 23:56:57 --> Severity: Warning --> Attempt to read property "documents" on array E:\Xammp\htdocs\alumni\application\views\admin\alumni.php 78
+ERROR - 2022-06-15 23:56:57 --> Severity: Warning --> Attempt to read property "documents" on array E:\Xammp\htdocs\alumni\application\views\admin\alumni.php 78
+ERROR - 2022-06-15 23:56:57 --> Severity: Warning --> Attempt to read property "documents" on array E:\Xammp\htdocs\alumni\application\views\admin\alumni.php 78
+ERROR - 2022-06-15 23:56:57 --> Severity: Warning --> Attempt to read property "documents" on array E:\Xammp\htdocs\alumni\application\views\admin\alumni.php 78
+ERROR - 2022-06-15 23:56:57 --> Severity: Warning --> Attempt to read property "documents" on array E:\Xammp\htdocs\alumni\application\views\admin\alumni.php 78
+ERROR - 2022-06-15 23:56:57 --> Severity: Warning --> Attempt to read property "documents" on array E:\Xammp\htdocs\alumni\application\views\admin\alumni.php 78
+ERROR - 2022-06-15 23:56:57 --> Severity: Warning --> Attempt to read property "documents" on array E:\Xammp\htdocs\alumni\application\views\admin\alumni.php 78
+ERROR - 2022-06-15 23:56:57 --> Severity: Warning --> Attempt to read property "documents" on array E:\Xammp\htdocs\alumni\application\views\admin\alumni.php 78
+ERROR - 2022-06-15 23:56:57 --> Severity: Warning --> Attempt to read property "documents" on array E:\Xammp\htdocs\alumni\application\views\admin\alumni.php 78
+ERROR - 2022-06-15 23:56:57 --> Severity: Warning --> Attempt to read property "documents" on array E:\Xammp\htdocs\alumni\application\views\admin\alumni.php 78
+ERROR - 2022-06-15 23:56:57 --> Severity: Warning --> Attempt to read property "documents" on array E:\Xammp\htdocs\alumni\application\views\admin\alumni.php 78
+ERROR - 2022-06-15 23:56:57 --> Severity: Warning --> Attempt to read property "documents" on array E:\Xammp\htdocs\alumni\application\views\admin\alumni.php 78
+ERROR - 2022-06-15 23:56:57 --> Severity: Warning --> Attempt to read property "documents" on array E:\Xammp\htdocs\alumni\application\views\admin\alumni.php 78
+ERROR - 2022-06-15 23:56:57 --> Severity: Warning --> Attempt to read property "documents" on array E:\Xammp\htdocs\alumni\application\views\admin\alumni.php 78
+ERROR - 2022-06-15 19:56:58 --> Could not find the language line "404"
+ERROR - 2022-06-15 23:58:54 --> Could not find the language line "documents"
+ERROR - 2022-06-15 23:58:54 --> Severity: Warning --> Undefined variable $row E:\Xammp\htdocs\alumni\application\views\admin\alumni.php 45
+ERROR - 2022-06-15 23:58:54 --> Severity: Warning --> Trying to access array offset on value of type null E:\Xammp\htdocs\alumni\application\views\admin\alumni.php 45
+ERROR - 2022-06-15 23:58:54 --> Severity: Warning --> Attempt to read property "documents" on array E:\Xammp\htdocs\alumni\application\views\admin\alumni.php 78
+ERROR - 2022-06-15 23:58:54 --> Severity: Warning --> Attempt to read property "documents" on array E:\Xammp\htdocs\alumni\application\views\admin\alumni.php 78
+ERROR - 2022-06-15 23:58:54 --> Severity: Warning --> Attempt to read property "documents" on array E:\Xammp\htdocs\alumni\application\views\admin\alumni.php 78
+ERROR - 2022-06-15 23:58:54 --> Severity: Warning --> Attempt to read property "documents" on array E:\Xammp\htdocs\alumni\application\views\admin\alumni.php 78
+ERROR - 2022-06-15 23:58:54 --> Severity: Warning --> Attempt to read property "documents" on array E:\Xammp\htdocs\alumni\application\views\admin\alumni.php 78
+ERROR - 2022-06-15 23:58:54 --> Severity: Warning --> Attempt to read property "documents" on array E:\Xammp\htdocs\alumni\application\views\admin\alumni.php 78
+ERROR - 2022-06-15 23:58:54 --> Severity: Warning --> Attempt to read property "documents" on array E:\Xammp\htdocs\alumni\application\views\admin\alumni.php 78
+ERROR - 2022-06-15 23:58:54 --> Severity: Warning --> Attempt to read property "documents" on array E:\Xammp\htdocs\alumni\application\views\admin\alumni.php 78
+ERROR - 2022-06-15 23:58:54 --> Severity: Warning --> Attempt to read property "documents" on array E:\Xammp\htdocs\alumni\application\views\admin\alumni.php 78
+ERROR - 2022-06-15 23:58:54 --> Severity: Warning --> Attempt to read property "documents" on array E:\Xammp\htdocs\alumni\application\views\admin\alumni.php 78
+ERROR - 2022-06-15 23:58:54 --> Severity: Warning --> Attempt to read property "documents" on array E:\Xammp\htdocs\alumni\application\views\admin\alumni.php 78
+ERROR - 2022-06-15 23:58:54 --> Severity: Warning --> Attempt to read property "documents" on array E:\Xammp\htdocs\alumni\application\views\admin\alumni.php 78
+ERROR - 2022-06-15 23:58:54 --> Severity: Warning --> Attempt to read property "documents" on array E:\Xammp\htdocs\alumni\application\views\admin\alumni.php 78
+ERROR - 2022-06-15 23:58:54 --> Severity: Warning --> Attempt to read property "documents" on array E:\Xammp\htdocs\alumni\application\views\admin\alumni.php 78
+ERROR - 2022-06-15 23:58:54 --> Severity: Warning --> Attempt to read property "documents" on array E:\Xammp\htdocs\alumni\application\views\admin\alumni.php 78
+ERROR - 2022-06-15 23:58:54 --> Severity: Warning --> Attempt to read property "documents" on array E:\Xammp\htdocs\alumni\application\views\admin\alumni.php 78
+ERROR - 2022-06-15 19:58:54 --> Could not find the language line "404"
+ERROR - 2022-06-15 19:58:54 --> Could not find the language line "404"
+ERROR - 2022-06-15 23:58:54 --> Could not find the language line "documents"
+ERROR - 2022-06-15 23:58:54 --> Severity: Warning --> Undefined variable $row E:\Xammp\htdocs\alumni\application\views\admin\alumni.php 45
+ERROR - 2022-06-15 23:58:54 --> Severity: Warning --> Trying to access array offset on value of type null E:\Xammp\htdocs\alumni\application\views\admin\alumni.php 45
+ERROR - 2022-06-15 23:58:54 --> Severity: Warning --> Attempt to read property "documents" on array E:\Xammp\htdocs\alumni\application\views\admin\alumni.php 78
+ERROR - 2022-06-15 23:58:54 --> Severity: Warning --> Attempt to read property "documents" on array E:\Xammp\htdocs\alumni\application\views\admin\alumni.php 78
+ERROR - 2022-06-15 23:58:54 --> Severity: Warning --> Attempt to read property "documents" on array E:\Xammp\htdocs\alumni\application\views\admin\alumni.php 78
+ERROR - 2022-06-15 23:58:54 --> Severity: Warning --> Attempt to read property "documents" on array E:\Xammp\htdocs\alumni\application\views\admin\alumni.php 78
+ERROR - 2022-06-15 23:58:54 --> Severity: Warning --> Attempt to read property "documents" on array E:\Xammp\htdocs\alumni\application\views\admin\alumni.php 78
+ERROR - 2022-06-15 23:58:54 --> Severity: Warning --> Attempt to read property "documents" on array E:\Xammp\htdocs\alumni\application\views\admin\alumni.php 78
+ERROR - 2022-06-15 23:58:54 --> Severity: Warning --> Attempt to read property "documents" on array E:\Xammp\htdocs\alumni\application\views\admin\alumni.php 78
+ERROR - 2022-06-15 23:58:54 --> Severity: Warning --> Attempt to read property "documents" on array E:\Xammp\htdocs\alumni\application\views\admin\alumni.php 78
+ERROR - 2022-06-15 23:58:54 --> Severity: Warning --> Attempt to read property "documents" on array E:\Xammp\htdocs\alumni\application\views\admin\alumni.php 78
+ERROR - 2022-06-15 23:58:54 --> Severity: Warning --> Attempt to read property "documents" on array E:\Xammp\htdocs\alumni\application\views\admin\alumni.php 78
+ERROR - 2022-06-15 23:58:54 --> Severity: Warning --> Attempt to read property "documents" on array E:\Xammp\htdocs\alumni\application\views\admin\alumni.php 78
+ERROR - 2022-06-15 23:58:54 --> Severity: Warning --> Attempt to read property "documents" on array E:\Xammp\htdocs\alumni\application\views\admin\alumni.php 78
+ERROR - 2022-06-15 23:58:54 --> Severity: Warning --> Attempt to read property "documents" on array E:\Xammp\htdocs\alumni\application\views\admin\alumni.php 78
+ERROR - 2022-06-15 23:58:54 --> Severity: Warning --> Attempt to read property "documents" on array E:\Xammp\htdocs\alumni\application\views\admin\alumni.php 78
+ERROR - 2022-06-15 23:58:54 --> Severity: Warning --> Attempt to read property "documents" on array E:\Xammp\htdocs\alumni\application\views\admin\alumni.php 78
+ERROR - 2022-06-15 23:58:54 --> Severity: Warning --> Attempt to read property "documents" on array E:\Xammp\htdocs\alumni\application\views\admin\alumni.php 78
+ERROR - 2022-06-15 19:58:54 --> Could not find the language line "404"
+ERROR - 2022-06-15 20:02:49 --> Could not find the language line "404"
+ERROR - 2022-06-15 20:02:49 --> Could not find the language line "404"
+ERROR - 2022-06-15 20:02:50 --> Could not find the language line "404"
+ERROR - 2022-06-15 20:04:51 --> Could not find the language line "404"
+ERROR - 2022-06-15 20:04:51 --> Could not find the language line "404"
+ERROR - 2022-06-15 20:04:51 --> Could not find the language line "404"
+ERROR - 2022-06-15 20:04:57 --> Could not find the language line "404"
+ERROR - 2022-06-15 20:05:01 --> Could not find the language line "404"
+ERROR - 2022-06-15 20:05:01 --> Could not find the language line "404"
